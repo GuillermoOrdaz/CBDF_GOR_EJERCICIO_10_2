@@ -1,0 +1,5 @@
+com\example\superheroes\controllers\HeroeController.class
+com\example\superheroes\entities\HeroeEntity.class
+com\example\superheroes\services\HeroeService.class
+com\example\superheroes\SuperheroesApplication.class
+com\example\superheroes\repositories\HeroeRepository.class
